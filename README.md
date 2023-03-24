@@ -1,62 +1,44 @@
-decomposed this project into several parts. Here will release the Stages 1-6.
+Decomposed this project into several parts. Here will release the Stages 1-6.
 
  
 
 Stage 1: Car Starts and Stops
 
+Codes  https://github.com/xinxingwu-uk/CSharpGames_CarRacing/tree/main/Car1/CarRace
+
 -------------------------------------------------------------------------------------------------
 
-Codes  
- 
 
 Stage 2: Move left and right
 
+Codes  https://github.com/xinxingwu-uk/CSharpGames_CarRacing/tree/main/Car2/Car2/CarRace
+
 -------------------------------------------------------------------------------------------------
 
-
-
-Codes  Car2.zip Download Car2.zip 
-
- 
-
- 
 
 Stage 3: Speed up and slow down
 
+Codes  https://github.com/xinxingwu-uk/CSharpGames_CarRacing/tree/main/Car3/CarRace
+
 -------------------------------------------------------------------------------------------------
 
-
-
- 
-
-Code Car3.zip Download Car3.zip 
-
- 
 
 Stage 4: More cars
 
+Codes  https://github.com/xinxingwu-uk/CSharpGames_CarRacing/tree/main/Car4/CarRace
+
 -------------------------------------------------------------------------------------------------
 
-
-
-Code Car4.zip Download Car4.zip 
-
-
- 
 
 Stage 5: Crash
 
+Codes  https://github.com/xinxingwu-uk/CSharpGames_CarRacing/tree/main/Car5/CarRace
+
 -------------------------------------------------------------------------------------------------
 
 
-Code Car5.zip Download Car5.zip 
-
- 
-
- 
-
- 
-
 Stage 6: Add scores
+
+Codes  https://github.com/xinxingwu-uk/CSharpGames_CarRacing/tree/main/Car6/CarRace
 
 -------------------------------------------------------------------------------------------------
